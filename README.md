@@ -4,6 +4,10 @@ coming soon ...
 
 ![](hello.png)
 
+# Contribuições 
+
+Lisa - (lisa@email.com)
+
 ## Contributing
 
 1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
